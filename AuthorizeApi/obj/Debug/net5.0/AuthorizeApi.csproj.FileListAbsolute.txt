@@ -1,0 +1,206 @@
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\appsettings.json
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.exe
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.deps.json
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.runtimeconfig.json
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.runtimeconfig.dev.json
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.dll
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\ref\AuthorizeApi.dll
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.pdb
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.csprojAssemblyReference.cache
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.AssemblyInfoInputs.cache
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.AssemblyInfo.cs
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.csproj.CoreCompileInputs.cache
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\staticwebassets\AuthorizeApi.StaticWebAssets.Manifest.cache
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\staticwebassets\AuthorizeApi.StaticWebAssets.xml
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\scopedcss\bundle\AuthorizeApi.styles.css
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.RazorTargetAssemblyInfo.cache
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.csproj.CopyComplete
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.dll
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\ref\AuthorizeApi.dll
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.pdb
+C:\Users\AmAn\Desktop\RetailProduct\backend\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.genruntimeconfig.cache
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\appsettings.json
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.exe
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.deps.json
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.runtimeconfig.json
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.runtimeconfig.dev.json
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.dll
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\ref\AuthorizeApi.dll
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.pdb
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.csprojAssemblyReference.cache
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.AssemblyInfoInputs.cache
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.AssemblyInfo.cs
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.csproj.CoreCompileInputs.cache
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\staticwebassets\AuthorizeApi.StaticWebAssets.Manifest.cache
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\staticwebassets\AuthorizeApi.StaticWebAssets.xml
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\scopedcss\bundle\AuthorizeApi.styles.css
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.RazorTargetAssemblyInfo.cache
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.csproj.CopyComplete
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.dll
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\ref\AuthorizeApi.dll
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.pdb
+C:\Users\priya\Downloads\AuthorizeApi\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.genruntimeconfig.cache
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\appsettings.json
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.exe
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.deps.json
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.runtimeconfig.json
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.runtimeconfig.dev.json
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.dll
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\ref\AuthorizeApi.dll
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.pdb
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.csprojAssemblyReference.cache
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.AssemblyInfoInputs.cache
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.AssemblyInfo.cs
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.csproj.CoreCompileInputs.cache
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\staticwebassets\AuthorizeApi.StaticWebAssets.Manifest.cache
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\staticwebassets\AuthorizeApi.StaticWebAssets.xml
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\scopedcss\bundle\AuthorizeApi.styles.css
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.RazorTargetAssemblyInfo.cache
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.csproj.CopyComplete
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.dll
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\ref\AuthorizeApi.dll
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.pdb
+C:\Users\priya\Downloads\AuthorizeApi - Copy\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.genruntimeconfig.cache
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\log4net.config
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\appsettings.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.exe
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.deps.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.runtimeconfig.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.runtimeconfig.dev.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\ref\AuthorizeApi.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.pdb
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\log4net.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.AssemblyInfoInputs.cache
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.AssemblyInfo.cs
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\staticwebassets\AuthorizeApi.StaticWebAssets.Manifest.cache
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\staticwebassets\AuthorizeApi.StaticWebAssets.xml
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\scopedcss\bundle\AuthorizeApi.styles.css
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.RazorTargetAssemblyInfo.cache
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.csproj.CopyComplete
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\ref\AuthorizeApi.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.pdb
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.genruntimeconfig.cache
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.csprojAssemblyReference.cache
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\log4net.config
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\appsettings.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.exe
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.deps.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.runtimeconfig.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.runtimeconfig.dev.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\ref\AuthorizeApi.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\AuthorizeApi.pdb
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\log4net.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.csprojAssemblyReference.cache
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.AssemblyInfoInputs.cache
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.AssemblyInfo.cs
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\obj\Debug\net5.0\staticwebassets\AuthorizeApi.StaticWebAssets.Manifest.cache
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\obj\Debug\net5.0\staticwebassets\AuthorizeApi.StaticWebAssets.xml
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\obj\Debug\net5.0\scopedcss\bundle\AuthorizeApi.styles.css
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.RazorTargetAssemblyInfo.cache
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.csproj.CopyComplete
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\obj\Debug\net5.0\ref\AuthorizeApi.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.pdb
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeApi\obj\Debug\net5.0\AuthorizeApi.genruntimeconfig.cache

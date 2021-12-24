@@ -1,0 +1,15 @@
+INFO  10:30:30  24:12:2021 Now listening on: https://[::]:443
+INFO  10:30:30  24:12:2021 Now listening on: http://[::]:80
+INFO  10:30:30  24:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  10:30:30  24:12:2021 Hosting environment: Development
+INFO  10:30:30  24:12:2021 Content root path: /app
+INFO  10:30:51  24:12:2021 Authentication Manager Constructor created
+INFO  10:30:51  24:12:2021 AuthController called
+INFO  10:30:51  24:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  10:30:51  24:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  10:30:51  24:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  10:30:51  24:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  10:30:51  24:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  10:30:51  24:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  10:30:51  24:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640342751,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  10:30:52  24:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.

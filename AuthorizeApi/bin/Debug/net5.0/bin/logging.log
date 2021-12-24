@@ -1,0 +1,675 @@
+INFO  02:11:58  21:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  02:11:58  21:12:2021 Hosting environment: Development
+INFO  02:11:58  21:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+INFO  02:12:10  21:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  02:12:10  21:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  02:12:10  21:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640077930,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  02:12:10  21:12:2021 Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  03:03:46  21:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  03:03:46  21:12:2021 Hosting environment: Development
+INFO  03:03:46  21:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+INFO  03:04:00  21:12:2021 Authentication Manager Constructor created
+INFO  03:04:00  21:12:2021 Authentication Manager Constructor created
+INFO  03:04:00  21:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credis found with..
+INFO  03:04:00  21:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  03:04:00  21:12:2021 Agen user is created in AuthenticateLogin method 
+INFO  03:04:00  21:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  03:04:00  21:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  03:04:00  21:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640081040,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  03:04:00  21:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  03:05:17  21:12:2021 Authentication Manager Constructor created
+INFO  07:20:20  21:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  07:20:20  21:12:2021 Hosting environment: Development
+INFO  07:20:20  21:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+ERROR 07:20:34  21:12:2021 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'AuthorizeApi.Controllers.AuthController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerProvider.OnProvidersExecuting(ActionInvokerProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionInvokerFactory.CreateInvoker(ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointFactory.<>c__DisplayClass7_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:21:57  21:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  07:21:57  21:12:2021 Hosting environment: Development
+INFO  07:21:57  21:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+INFO  07:22:10  21:12:2021 Authentication Manager Constructor created
+INFO  07:22:10  21:12:2021 AuthController called
+INFO  07:22:10  21:12:2021 Authentication Manager Constructor created
+INFO  07:22:10  21:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credis found with..
+INFO  07:22:10  21:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  07:22:10  21:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  07:22:10  21:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  07:22:10  21:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  07:22:10  21:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640096530,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  07:22:10  21:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  12:42:13  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  12:42:13  23:12:2021 Hosting environment: Development
+INFO  12:42:13  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+ERROR 12:42:30  23:12:2021 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'AuthorizeApi.Provider.IAuthenticateProvider' while attempting to activate 'AuthorizeApi.Controllers.AuthController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method4(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  12:47:23  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  12:47:23  23:12:2021 Hosting environment: Development
+INFO  12:47:23  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+ERROR 12:47:38  23:12:2021 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'AuthorizeApi.Provider.IAuthenticateProvider' while attempting to activate 'AuthorizeApi.Controllers.AuthController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method4(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  12:50:51  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  12:50:51  23:12:2021 Hosting environment: Development
+INFO  12:50:51  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+ERROR 12:51:04  23:12:2021 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'AuthorizeApi.Provider.IAuthenticateProvider' while attempting to activate 'AuthorizeApi.Controllers.AuthController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method4(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  01:07:42  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  01:07:42  23:12:2021 Hosting environment: Development
+INFO  01:07:42  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+INFO  01:07:56  23:12:2021 Authentication Manager Constructor created
+INFO  01:07:56  23:12:2021 AuthController called
+INFO  01:07:56  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credis found with..
+INFO  01:10:18  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  01:10:18  23:12:2021 Hosting environment: Development
+INFO  01:10:18  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+INFO  01:10:32  23:12:2021 Authentication Manager Constructor created
+INFO  01:10:32  23:12:2021 AuthController called
+INFO  01:10:32  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credis found with..
+ERROR 01:11:08  23:12:2021 Exception Found = Object reference not set to an instance of an object.
+INFO  01:12:36  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  01:12:36  23:12:2021 Hosting environment: Development
+INFO  01:12:36  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+INFO  01:12:52  23:12:2021 Authentication Manager Constructor created
+INFO  01:12:52  23:12:2021 AuthController called
+INFO  01:12:52  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credis found with..
+INFO  01:18:39  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  01:18:39  23:12:2021 Hosting environment: Development
+INFO  01:18:39  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+INFO  01:18:52  23:12:2021 Authentication Manager Constructor created
+INFO  01:18:52  23:12:2021 AuthController called
+INFO  01:18:52  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credis found with..
+INFO  01:24:43  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  01:24:43  23:12:2021 Hosting environment: Development
+INFO  01:24:43  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+INFO  01:25:21  23:12:2021 Authentication Manager Constructor created
+INFO  01:25:21  23:12:2021 AuthController called
+INFO  01:25:21  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credis found with..
+INFO  01:30:50  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  01:30:50  23:12:2021 Hosting environment: Development
+INFO  01:30:50  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+INFO  01:31:03  23:12:2021 Authentication Manager Constructor created
+INFO  01:31:03  23:12:2021 AuthController called
+INFO  01:31:03  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credis found with..
+INFO  01:32:01  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  01:32:01  23:12:2021 Hosting environment: Development
+INFO  01:32:01  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+INFO  01:32:12  23:12:2021 Authentication Manager Constructor created
+INFO  01:32:12  23:12:2021 AuthController called
+INFO  01:32:12  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credis found with..
+INFO  02:35:43  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  02:35:43  23:12:2021 Hosting environment: Development
+INFO  02:35:43  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+INFO  02:35:56  23:12:2021 Authentication Manager Constructor created
+INFO  02:35:56  23:12:2021 AuthController called
+INFO  02:35:56  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  02:35:56  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  02:35:56  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credis found with..
+INFO  02:35:56  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  02:35:56  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  02:35:57  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640252156,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  02:35:57  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  03:03:56  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  03:03:56  23:12:2021 Hosting environment: Development
+INFO  03:03:56  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+INFO  03:04:16  23:12:2021 Authentication Manager Constructor created
+INFO  03:04:16  23:12:2021 AuthController called
+INFO  03:04:16  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  03:04:16  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  03:04:16  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credis found with..
+INFO  03:04:16  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  03:04:16  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  03:04:16  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640253856,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  03:04:16  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  03:05:29  23:12:2021 Authentication Manager Constructor created
+INFO  03:05:29  23:12:2021 AuthController called
+INFO  03:23:22  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  03:23:22  23:12:2021 Hosting environment: Development
+INFO  03:23:22  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+INFO  03:23:34  23:12:2021 Authentication Manager Constructor created
+INFO  03:23:34  23:12:2021 AuthController called
+INFO  03:23:35  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  03:23:35  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  03:23:35  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credis found with..
+INFO  03:23:35  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  03:23:35  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  03:23:35  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640255015,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  03:23:35  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  03:24:08  23:12:2021 Authentication Manager Constructor created
+INFO  03:24:08  23:12:2021 AuthController called
+INFO  04:35:10  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  04:35:10  23:12:2021 Hosting environment: Development
+INFO  04:35:10  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+ERROR 04:35:28  23:12:2021 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'AuthorizeApi.Controllers.AuthController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerProvider.OnProvidersExecuting(ActionInvokerProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionInvokerFactory.CreateInvoker(ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointFactory.<>c__DisplayClass7_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 04:36:00  23:12:2021 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'AuthorizeApi.Controllers.AuthController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerProvider.OnProvidersExecuting(ActionInvokerProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionInvokerFactory.CreateInvoker(ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointFactory.<>c__DisplayClass7_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  04:39:28  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  04:39:28  23:12:2021 Hosting environment: Development
+INFO  04:39:28  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+ERROR 04:39:42  23:12:2021 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'AuthorizeApi.Controllers.AuthController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerProvider.OnProvidersExecuting(ActionInvokerProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionInvokerFactory.CreateInvoker(ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointFactory.<>c__DisplayClass7_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  04:44:34  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  04:44:34  23:12:2021 Hosting environment: Development
+INFO  04:44:34  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+ERROR 04:44:53  23:12:2021 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'AuthorizeApi.Controllers.AuthController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerProvider.OnProvidersExecuting(ActionInvokerProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionInvokerFactory.CreateInvoker(ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointFactory.<>c__DisplayClass7_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  04:46:25  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  04:46:25  23:12:2021 Hosting environment: Development
+INFO  04:46:25  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+ERROR 04:46:41  23:12:2021 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'AuthorizeApi.Controllers.AuthController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerProvider.OnProvidersExecuting(ActionInvokerProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionInvokerFactory.CreateInvoker(ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointFactory.<>c__DisplayClass7_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  04:50:12  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  04:50:12  23:12:2021 Hosting environment: Development
+INFO  04:50:12  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+ERROR 04:50:30  23:12:2021 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'AuthorizeApi.Controllers.AuthController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerProvider.OnProvidersExecuting(ActionInvokerProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionInvokerFactory.CreateInvoker(ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointFactory.<>c__DisplayClass7_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  04:51:43  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  04:51:43  23:12:2021 Hosting environment: Development
+INFO  04:51:43  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+INFO  04:52:02  23:12:2021 Authentication Manager Constructor created
+INFO  04:52:02  23:12:2021 AuthController called
+INFO  04:52:02  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  04:52:02  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  04:52:02  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  04:52:02  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  04:52:02  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  04:52:02  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  04:52:02  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640260322,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  04:52:02  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  04:52:41  23:12:2021 Authentication Manager Constructor created
+INFO  04:52:41  23:12:2021 AuthController called
+INFO  04:53:37  23:12:2021 Authentication Manager Constructor created
+INFO  04:53:37  23:12:2021 AuthController called
+INFO  04:53:37  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  04:53:37  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  04:53:37  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  04:53:37  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  04:53:37  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  04:53:37  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  04:53:37  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640260417,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  04:53:37  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  04:53:39  23:12:2021 Authentication Manager Constructor created
+INFO  04:53:39  23:12:2021 AuthController called
+INFO  04:53:39  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  04:53:39  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  04:53:39  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  04:53:39  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  04:53:39  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  04:53:39  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  04:53:39  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640260419,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  04:53:39  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  04:53:41  23:12:2021 Authentication Manager Constructor created
+INFO  04:53:41  23:12:2021 AuthController called
+INFO  04:53:41  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  04:53:41  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  04:53:41  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  04:53:41  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  04:53:41  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  04:53:41  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  04:53:41  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640260421,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  04:53:41  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  04:53:45  23:12:2021 Authentication Manager Constructor created
+INFO  04:53:45  23:12:2021 AuthController called
+INFO  04:53:45  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  04:53:45  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  04:53:45  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  04:53:45  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  04:53:45  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  04:53:45  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  04:53:45  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640260425,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  04:53:45  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  04:53:50  23:12:2021 Authentication Manager Constructor created
+INFO  04:53:50  23:12:2021 AuthController called
+INFO  04:53:50  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  04:53:50  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  04:53:50  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  04:53:50  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  04:53:50  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  04:53:50  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  04:53:50  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640260430,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  04:53:50  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  05:14:52  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  05:14:52  23:12:2021 Hosting environment: Development
+INFO  05:14:52  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+INFO  05:15:12  23:12:2021 Authentication Manager Constructor created
+INFO  05:15:12  23:12:2021 AuthController called
+INFO  05:15:12  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  05:15:12  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  05:15:12  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  05:15:12  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  05:15:12  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  05:15:12  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  05:15:13  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640261712,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  05:15:13  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  07:09:11  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  07:09:11  23:12:2021 Hosting environment: Development
+INFO  07:09:11  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+INFO  07:09:28  23:12:2021 Authentication Manager Constructor created
+INFO  07:09:28  23:12:2021 AuthController called
+INFO  07:09:28  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  07:09:28  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  07:09:28  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  07:09:28  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  07:09:28  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  07:09:28  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  07:09:28  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640268568,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  07:09:28  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  07:09:44  23:12:2021 Authentication Manager Constructor created
+INFO  07:09:44  23:12:2021 AuthController called
+INFO  09:39:54  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  09:39:54  23:12:2021 Hosting environment: Development
+INFO  09:39:54  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+INFO  09:40:08  23:12:2021 Authentication Manager Constructor created
+INFO  09:40:08  23:12:2021 AuthController called
+INFO  09:40:08  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  09:40:08  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  09:40:08  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  09:40:08  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  09:40:08  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  09:40:08  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  09:40:08  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640277608,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  09:40:08  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  09:40:30  23:12:2021 Authentication Manager Constructor created
+INFO  09:40:30  23:12:2021 AuthController called
+INFO  09:40:47  23:12:2021 Authentication Manager Constructor created
+INFO  09:40:47  23:12:2021 AuthController called
+INFO  09:40:47  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  09:40:47  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  09:40:47  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  09:40:47  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  09:40:47  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  09:40:47  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  09:40:47  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640277647,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  09:40:47  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  09:41:05  23:12:2021 Authentication Manager Constructor created
+INFO  09:41:05  23:12:2021 AuthController called
+INFO  09:41:05  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  09:41:05  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  09:41:05  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  09:41:05  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  09:41:05  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  09:41:05  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  09:41:05  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640277665,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  09:41:05  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  09:43:44  23:12:2021 Authentication Manager Constructor created
+INFO  09:43:44  23:12:2021 AuthController called
+INFO  09:43:44  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  09:43:44  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  09:43:44  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  09:43:44  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  09:43:44  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  09:43:44  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  09:43:44  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640277824,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  09:43:44  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  09:47:52  23:12:2021 Authentication Manager Constructor created
+INFO  09:47:52  23:12:2021 AuthController called
+INFO  09:47:52  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  09:47:52  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  09:47:52  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  09:47:52  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  09:47:52  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  09:47:52  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  09:47:52  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640278072,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  09:47:52  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  09:48:25  23:12:2021 Authentication Manager Constructor created
+INFO  09:48:25  23:12:2021 AuthController called
+INFO  09:48:25  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  09:48:25  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  09:48:25  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  09:48:25  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  09:48:25  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  09:48:25  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  09:48:25  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640278105,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  09:48:25  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  09:58:38  23:12:2021 Authentication Manager Constructor created
+INFO  09:58:38  23:12:2021 AuthController called
+INFO  09:58:38  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  09:58:38  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  09:58:38  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  09:58:38  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  09:58:38  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  09:58:38  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  09:58:38  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640278718,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  09:58:38  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  09:59:34  23:12:2021 Authentication Manager Constructor created
+INFO  09:59:34  23:12:2021 AuthController called
+INFO  09:59:34  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  09:59:34  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  09:59:34  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  09:59:34  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  09:59:34  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  09:59:34  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  09:59:34  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640278774,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  09:59:34  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  10:00:35  23:12:2021 Authentication Manager Constructor created
+INFO  10:00:35  23:12:2021 AuthController called
+INFO  10:00:35  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  10:00:35  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  10:00:35  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  10:00:35  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  10:00:35  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  10:00:35  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  10:00:35  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640278835,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  10:00:35  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  10:00:46  23:12:2021 Authentication Manager Constructor created
+INFO  10:00:46  23:12:2021 AuthController called
+INFO  10:00:46  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  10:00:46  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  10:00:46  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  10:00:46  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  10:00:46  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  10:00:46  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  10:00:46  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640278846,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  10:00:46  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  10:01:04  23:12:2021 Authentication Manager Constructor created
+INFO  10:01:04  23:12:2021 AuthController called
+INFO  10:01:04  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  10:01:04  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  10:01:04  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  10:01:04  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  10:01:04  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  10:01:04  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  10:01:04  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640278864,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  10:01:04  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  10:02:21  23:12:2021 Authentication Manager Constructor created
+INFO  10:02:21  23:12:2021 AuthController called
+INFO  10:02:21  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  10:02:21  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  10:02:21  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  10:02:21  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  10:02:21  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  10:02:21  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  10:02:21  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640278941,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  10:02:21  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  10:04:52  23:12:2021 Authentication Manager Constructor created
+INFO  10:04:52  23:12:2021 AuthController called
+INFO  10:04:52  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  10:04:52  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  10:04:52  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  10:04:52  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  10:04:52  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  10:04:52  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  10:04:52  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640279092,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  10:04:52  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  10:06:42  23:12:2021 Authentication Manager Constructor created
+INFO  10:06:42  23:12:2021 AuthController called
+INFO  10:06:42  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  10:06:42  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  10:06:42  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  10:06:42  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  10:06:42  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  10:06:42  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  10:06:42  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640279202,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  10:06:42  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  10:08:11  23:12:2021 Authentication Manager Constructor created
+INFO  10:08:11  23:12:2021 AuthController called
+INFO  10:08:11  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  10:08:11  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  10:08:11  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  10:08:11  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  10:08:11  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  10:08:11  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  10:08:11  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640279291,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  10:08:11  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  10:11:56  23:12:2021 Authentication Manager Constructor created
+INFO  10:11:56  23:12:2021 AuthController called
+INFO  10:11:56  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  10:11:56  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  10:11:56  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  10:11:56  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  10:11:56  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  10:11:56  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  10:11:56  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640279516,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  10:11:56  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  10:12:46  23:12:2021 Authentication Manager Constructor created
+INFO  10:12:46  23:12:2021 AuthController called
+INFO  10:12:46  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  10:12:46  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  10:12:46  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  10:12:46  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  10:12:46  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  10:12:46  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  10:12:46  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640279566,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  10:12:46  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  10:13:58  23:12:2021 Authentication Manager Constructor created
+INFO  10:13:58  23:12:2021 AuthController called
+INFO  10:13:58  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  10:13:58  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  10:13:58  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  10:13:58  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  10:13:58  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  10:13:58  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  10:13:58  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640279638,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  10:13:58  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  10:14:34  23:12:2021 Authentication Manager Constructor created
+INFO  10:14:34  23:12:2021 AuthController called
+INFO  10:14:34  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  10:14:34  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  10:14:34  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  10:14:34  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  10:14:34  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  10:14:34  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  10:14:34  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640279674,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  10:14:34  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  10:16:29  23:12:2021 Authentication Manager Constructor created
+INFO  10:16:29  23:12:2021 AuthController called
+INFO  10:16:29  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  10:16:29  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  10:16:29  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  10:16:29  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  10:16:29  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  10:16:29  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  10:16:29  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640279789,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  10:16:29  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  10:18:22  23:12:2021 Authentication Manager Constructor created
+INFO  10:18:22  23:12:2021 AuthController called
+INFO  10:18:22  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  10:18:22  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  10:18:22  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  10:18:22  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  10:18:22  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  10:18:22  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  10:18:22  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640279902,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  10:18:22  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  10:19:36  23:12:2021 Authentication Manager Constructor created
+INFO  10:19:36  23:12:2021 AuthController called
+INFO  10:20:01  23:12:2021 Authentication Manager Constructor created
+INFO  10:20:01  23:12:2021 AuthController called
+INFO  10:20:01  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  10:20:01  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  10:20:01  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  10:20:01  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  10:20:01  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  10:20:01  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  10:20:01  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640280001,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  10:20:01  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  10:20:17  23:12:2021 Authentication Manager Constructor created
+INFO  10:20:17  23:12:2021 AuthController called
+INFO  10:20:17  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  10:20:17  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  10:20:17  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  10:20:17  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  10:20:17  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  10:20:17  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  10:20:17  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640280017,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  10:20:17  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  10:27:47  23:12:2021 Authentication Manager Constructor created
+INFO  10:27:47  23:12:2021 AuthController called
+INFO  10:27:47  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  10:27:47  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  10:27:47  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  10:27:47  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  10:27:47  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  10:27:47  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  10:27:47  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640280467,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  10:27:47  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  11:29:06  23:12:2021 Application started. Press Ctrl+C to shut down.
+INFO  11:29:06  23:12:2021 Hosting environment: Development
+INFO  11:29:06  23:12:2021 Content root path: C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeApi
+INFO  11:29:22  23:12:2021 Authentication Manager Constructor created
+INFO  11:29:22  23:12:2021 AuthController called
+INFO  11:29:22  23:12:2021 AuthController has Called AuthenticateLogin and AuthorizeApi.Model.Credentials is searched in AuthenticateProvider
+INFO  11:29:22  23:12:2021 AuthenticationManager Authenticatelogin method is called 
+INFO  11:29:22  23:12:2021 Agent user is created in AuthenticateLogin method 
+INFO  11:29:22  23:12:2021 In AuthController CreateToken AuthorizeApi.Model.Credentialsis found with..
+INFO  11:29:22  23:12:2021 key Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'qw__XJRgqPRoaL7Nl67QKau_VMVMqFBzTiCDmdsxrnE'. has been created successfully 
+INFO  11:29:22  23:12:2021 creds Microsoft.IdentityModel.Tokens.SigningCredentials has been created successfully 
+INFO  11:29:22  23:12:2021 token {"alg":"HS256","typ":"JWT"}.{"http://schemas.microsoft.com/ws/2008/06/identity/claims/role":"Agent","UserName":"Aman Chaudhary","exp":1640283262,"iss":"https://localhost:44359/","aud":"https://localhost:44359/"}has been created successfully
+INFO  11:29:22  23:12:2021 In AuthController CreateToken response Microsoft.AspNetCore.Mvc.OkObjectResult is working.
+INFO  11:29:41  23:12:2021 Authentication Manager Constructor created
+INFO  11:29:41  23:12:2021 AuthController called

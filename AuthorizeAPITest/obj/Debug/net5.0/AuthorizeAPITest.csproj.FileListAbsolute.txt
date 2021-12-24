@@ -1,0 +1,254 @@
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\AuthorizeApi.deps.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\AuthorizeApi.runtimeconfig.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\AuthorizeApi.runtimeconfig.dev.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\log4net.config
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\appsettings.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\AuthorizeApi.exe
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\AuthorizeAPITest.deps.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\AuthorizeAPITest.runtimeconfig.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\AuthorizeAPITest.runtimeconfig.dev.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\AuthorizeAPITest.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\ref\AuthorizeAPITest.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\AuthorizeAPITest.pdb
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\log4net.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\testhost.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Moq.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\AuthorizeApi.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\bin\Debug\net5.0\AuthorizeApi.pdb
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\obj\Debug\net5.0\AuthorizeAPITest.csprojAssemblyReference.cache
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\obj\Debug\net5.0\AuthorizeAPITest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\obj\Debug\net5.0\AuthorizeAPITest.AssemblyInfoInputs.cache
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\obj\Debug\net5.0\AuthorizeAPITest.AssemblyInfo.cs
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\obj\Debug\net5.0\AuthorizeAPITest.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\obj\Debug\net5.0\AuthorizeAPITest.csproj.CopyComplete
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\obj\Debug\net5.0\AuthorizeAPITest.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\obj\Debug\net5.0\ref\AuthorizeAPITest.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\obj\Debug\net5.0\AuthorizeAPITest.pdb
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApi - final\AuthorizeApi\AuthorizeAPITest\obj\Debug\net5.0\AuthorizeAPITest.genruntimeconfig.cache
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\log4net.config
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\appsettings.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\AuthorizeApi.deps.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\AuthorizeApi.runtimeconfig.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\AuthorizeApi.runtimeconfig.dev.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\AuthorizeApi.exe
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\AuthorizeAPITest.deps.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\AuthorizeAPITest.runtimeconfig.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\AuthorizeAPITest.runtimeconfig.dev.json
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\AuthorizeAPITest.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\ref\AuthorizeAPITest.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\AuthorizeAPITest.pdb
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\log4net.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\testhost.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Moq.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\AuthorizeApi.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\bin\Debug\net5.0\AuthorizeApi.pdb
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\obj\Debug\net5.0\AuthorizeAPITest.csprojAssemblyReference.cache
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\obj\Debug\net5.0\AuthorizeAPITest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\obj\Debug\net5.0\AuthorizeAPITest.AssemblyInfoInputs.cache
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\obj\Debug\net5.0\AuthorizeAPITest.AssemblyInfo.cs
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\obj\Debug\net5.0\AuthorizeAPITest.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\obj\Debug\net5.0\AuthorizeAPITest.csproj.CopyComplete
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\obj\Debug\net5.0\AuthorizeAPITest.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\obj\Debug\net5.0\ref\AuthorizeAPITest.dll
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\obj\Debug\net5.0\AuthorizeAPITest.pdb
+C:\Users\priya\OneDrive\Documents\Portfolio Management System\AuthorizeApiDocker\AuthorizeAPITest\obj\Debug\net5.0\AuthorizeAPITest.genruntimeconfig.cache
