@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DailyMutualFundNAVMicroservice.Controllers
+namespace AuthorizeApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]

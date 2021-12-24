@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DailyMutualFundNAVMicroservice
+namespace AuthorizeApi
 {
     public class WeatherForecast
     {
